@@ -1,0 +1,1 @@
+// No need for custom JavaScript code in this example, as the animation is handled by CSS.
